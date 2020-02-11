@@ -1,17 +1,15 @@
-# tracksplit
+tracksplit
+==========
 
 what is it
 ----------
 
-tracksplit is a simple command line utility that splits a WAV audio file into respective audio tracks based on periods of silence in the audio.
-
-this program is a fork originating from here: [Tracksplit](https://sourceforge.net/projects/tracksplit/)
-
-the main differences compared to the original:
-
-- ported to 64 bit systems 
-- supports larger wav-files
-- fixed a few minor bugs 
+- tracksplit is a simple command line utility that splits a WAV audio file into respective audio tracks based on periods of silence in the audio.
+- this program is a fork originating from here: [Tracksplit](https://sourceforge.net/projects/tracksplit/)
+- the main differences compared to the original:
+    - ported to 64 bit systems 
+    - supports larger wav-files
+    - fixed a few minor bugs 
 
 how to build
 ------------
